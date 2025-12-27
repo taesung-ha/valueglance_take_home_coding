@@ -2,6 +2,8 @@
 
 A stock price dashboard built with React, TypeScript, and Tailwind CSS. Displays real-time stock market data from Finnhub API.
 
+**Live Demo:** [https://valueglancetakehomecoding.vercel.app/](https://valueglancetakehomecoding.vercel.app/)
+
 ![Stock Price Dashboard](screenshot.png)
 
 ## Features
