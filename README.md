@@ -2,6 +2,8 @@
 
 A stock price dashboard built with React, TypeScript, and Tailwind CSS. Displays real-time stock market data from Finnhub API.
 
+![Stock Price Dashboard](screenshot.png)
+
 ## Features
 
 ### Core Requirements
